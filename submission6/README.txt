@@ -1,3 +1,11 @@
+coursera course (not yet completed) using email
+riyo.hayat.khan@g.bracu.ac.bd
+https://www.coursera.org/specializations/natural-language-processing
+
+coursera course (not yet completed) using email
+riyokhan7@gmail.com
+https://www.coursera.org/learn/machine-learning
+
 completed youtube video:
 https://www.youtube.com/watch?v=UFtXy0KRxVI
 https://www.youtube.com/watch?v=fOvTtapxa9c&t=237s
@@ -16,6 +24,7 @@ https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBar
 
 
 completed book:
+https://web.stanford.edu/~jurafsky/slp3/
 http://sd.blackball.lv/library/data_analysis_with_pandas_(2019).pdf
 
 
